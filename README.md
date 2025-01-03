@@ -19,7 +19,7 @@ This is a simple Tic Tac Toe game implemented in Java. The game supports both hu
 
 ## UML Diagram
 
-![UML Diagram](uml_diagram.png)
+![uml_diagram.png](https://github.com/arpitajana1220/TicTacToe/blob/master/src/tictactoe/UML.png)
 
 ## How to Run
 
